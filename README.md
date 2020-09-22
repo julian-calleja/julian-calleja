@@ -1,5 +1,5 @@
 
-# Hi, there! <img src="https://raw.githubusercontent.com/julian-calleja/julian-calleja/master/wave.gif" width="30px">
+# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Julian Calleja and I'm a Big Data Engineer. I'm from a small island called Malta, and currently working at GiG. You can find me on [![LinkedIn][3.2]][2].
 
