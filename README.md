@@ -1,17 +1,15 @@
 
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Julian Calleja and I'm a Big Data Engineer. I'm from a small island called Malta, and currently working at GiG. You can find me on [![LinkedIn][3.2]][2].
+A Big Data Engineer / Data Science enthusiast. Passionate about everything technology related, design, reading and more.. Currently living in Malta, working as a Data Engineer. Find out more on  [![LinkedIn][3.2]][2].
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles [here](https://juliancalleja.netlify.app/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-ClickHouse-informational?style=flat&logo=clickhouse&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
