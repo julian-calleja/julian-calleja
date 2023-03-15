@@ -1,7 +1,9 @@
 
 # Hi, there!
 
-A Big Data Engineer / Data Science enthusiast. Passionate about everything technology related, design, reading and more.. Currently living in Malta, working as a Data Engineer. Find out more on  [![LinkedIn][3.2]][2].
+Currently, I am working as a Data Engineer at GiG working on GiG Data. GiG Data is a real-time data platform that enables clients to make faster decisions across all areas of their business such as marketing, compliance and bonus promotions through actionable insights.
+
+Find out more on  [![LinkedIn][3.2]][2].
 
 
 ## 🔧 Technologies & Tools
