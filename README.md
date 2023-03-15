@@ -1,5 +1,5 @@
 
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, there!
 
 A Big Data Engineer / Data Science enthusiast. Passionate about everything technology related, design, reading and more.. Currently living in Malta, working as a Data Engineer. Find out more on  [![LinkedIn][3.2]][2].
 
