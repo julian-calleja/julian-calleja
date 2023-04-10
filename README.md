@@ -1,21 +1,25 @@
-
-# Hi, there!
-
-Currently, I am working as a Data Engineer at GiG working on GiG Data. GiG Data is a real-time data platform that enables clients to make faster decisions across all areas of their business such as marketing, compliance and bonus promotions through actionable insights.
+Innovative Data Engineer with 4+ years within the iGaming industry. Graduate in B.SC IT (Hons) in Software Development from the University of Malta. Experienced in designing & development of data pipelines to help deliver realtime reporting and insights.
 
 Find out more on  [![LinkedIn][3.2]][2].
 
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-ClickHouse-informational?style=flat&logo=clickhouse&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+### Programming Languages
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=023047)
+
+### SQL
+![](https://img.shields.io/badge/DB-ClickHouse-informational?style=flat&logo=clickhouse&logoColor=white&color=023047)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=023047)
+
+### Tools
+![](https://img.shields.io/badge/Tools-Nifi-informational?style=flat&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Tools-Airbyte-informational?style=flat&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=023047)
+
 
 
 <!-- links to social media icons -->
