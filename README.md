@@ -1,4 +1,12 @@
-Innovative Data Engineer with 4+ years within the iGaming industry. Graduate in B.SC IT (Hons) in Software Development from the University of Malta. Experienced in designing & development of data pipelines to help deliver realtime reporting and insights.
+With over 4 years of experience in the iGaming industry, I bring innovation and expertise as a data engineer. My goal is to leverage data to drive actionable insights and empower informed decision-making. I hold a B.SC IT (Hons) in Software Development from the University of Malta.
+
+Proficient in Python, C#, and Java, I excel in software development and have hands-on experience with research frameworks like Jupyter. Additionally, I am well-versed in streaming frameworks such as NIFI, Kafka, and Debezium, and ETL frameworks like NIFI and Airbyte. I have a strong command of databases like Clickhouse and PostgreSQL, and I am skilled in visualization tools including Streamlit and Metabase.
+
+My track record showcases my ability to take charge of complex projects and drive them to successful completion. Notably, I initiated the development of a new CRM data pipeline (GiG Broker CRM) that enabled our partners to update customer profiles in real-time within their CRM platform, such as Symplify. This endeavor resulted in significant improvements in leveraging real-time data flow.
+
+As a proactive professional, I thrive in fast-paced, dynamic environments. I am eager to connect with like-minded experts in the field to explore collaborative opportunities that foster growth and innovation.
+
+Let's connect and explore how we can work together to drive data-driven excellence.
 
 Find out more on  [![LinkedIn][3.2]][2].
 
