@@ -1,31 +1,35 @@
-As a pioneering **Senior Big Data Engineer** with over 4 years of specialized experience in the iGaming industry, I am at the forefront of driving innovative data solutions. My educational foundation with a B.Sc IT (Hons) in Software Development from the University of Malta complements my practical skills in **Python, C#, Java, and automation**.
+Step into the high-voltage realm of Big Data with me, your guide through the digital frontier of the iGaming industry. With a rich background in B.Sc IT (Hons) Software Development from the University of Malta, I bring over four years of pioneering expertise to the table, weaving magic with Python, C#, Java, and the art of automation. 🌌✨
 
-I am proficient in leveraging cutting-edge technologies like **Jupyter, NIFI, Kafka, Debezium, and Airbyte** and possess deep expertise in database management with tools like **Clickhouse** and **PostgreSQL**. My proficiency extends to visualization platforms such as **Streamlit** and **Metabase**, enabling comprehensive data storytelling.
+Armed with a toolkit of the latest technologies like Jupyter, NIFI, Kafka, Debezium, and Airbyte, my quest is to turn the tangle of data into actionable insights. I'm also a connoisseur of database technologies, including Clickhouse and PostgreSQL, and a narrative architect, employing Streamlit and Metabase to tell compelling data stories. 📘💫
 
-My career is marked by significant achievements, including the conceptualization and implementation of the GiG Broker CRM data pipeline. This project revolutionized real-time customer profile updates in CRM platforms like Symplify, showcasing my capability to lead transformative projects.
+One of my signature achievements is the development of the GiG Broker CRM data pipeline, a revolutionary project that elevated real-time customer profiling in CRM platforms such as Symplify, showcasing my leadership in transformative projects. 🚀🌟
 
-As a thought leader in the data engineering space, I am committed to harnessing the power of data to unlock actionable insights and foster informed decision-making. I am passionate about connecting with fellow professionals and driving collaborative initiatives that propel the industry forward.
+I am a futurist in the field of data engineering, driven by the desire to uncover insights that power decision-making and foster community collaboration. My aim is to spark connections and innovations that propel our industry forward. 🔗💡
 
-I invite you to connect with me to explore synergies and pioneer data-driven strategies that redefine industry standards [![LinkedIn][3.2]][2].
+I invite you to join me on LinkedIn for a journey towards data-driven brilliance. Let's collaborate to set new standards and navigate the exciting world of data together. 🌍🤝
+
+👉 Are you ready to team up and dive deeper into the data universe? Contact me, and let's turn exploration into innovation! [![LinkedIn][3.2]][2].
 
 ### Tools
 ![](https://img.shields.io/badge/Tools-Nifi-informational?style=flat&logoColor=white&color=023047)
-![](https://img.shields.io/badge/Tools-Airbyte-informational?style=flat&logoColor=white&color=023047)
 ![](https://img.shields.io/badge/Tools-N8N-informational?style=flat&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Tools-Coolify-informational?style=flat&logo=docker&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=023047)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=023047)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=023047)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=023047)
+![](https://img.shields.io/badge/Tools-Airbyte-informational?style=flat&logoColor=white&color=023047)
 
 
 ### Programming Languages
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=023047)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=023047)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=023047)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=023047)
+
 
 ### SQL
 ![](https://img.shields.io/badge/DB-ClickHouse-informational?style=flat&logo=clickhouse&logoColor=white&color=023047)
+![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=postgresql&logoColor=white&color=023047)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=023047)
-
 
 
 
